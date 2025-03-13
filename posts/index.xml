@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://coderJohnZhang.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 22:22:00 +0800</lastBuildDate>
+    <atom:link href="https://coderJohnZhang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://coderJohnZhang.github.io/posts/first-post/</link>
+      <pubDate>Thu, 13 Mar 2025 22:22:00 +0800</pubDate>
+      <guid>https://coderJohnZhang.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;demo test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
