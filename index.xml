@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>代码之外：技术探索与认知迭代手记</title>
-    <link>http://localhost:1313/</link>
+    <link>https://coderJohnZhang.github.io/</link>
     <description>Recent content on 代码之外：技术探索与认知迭代手记 created by </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 15 Mar 2025 15:27:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 15:27:45 +0800</lastBuildDate><atom:link href="https://coderJohnZhang.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
